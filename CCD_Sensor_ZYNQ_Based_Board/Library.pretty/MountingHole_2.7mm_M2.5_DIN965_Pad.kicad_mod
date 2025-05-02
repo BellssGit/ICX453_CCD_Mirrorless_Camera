@@ -1,0 +1,103 @@
+(footprint "MountingHole_2.7mm_M2.5_DIN965_Pad"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(locked yes)
+	(layer "F.Cu")
+	(descr "Mounting Hole 2.7mm, M2.5, DIN965")
+	(tags "mounting hole 2.7mm m2.5 din965")
+	(property "Reference" "REF**"
+		(at 0 -3.35 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "eb1f874e-4456-4fbd-b444-c2129cbc43cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MountingHole_Pad"
+		(at 0 3.35 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "06b25544-083f-4edb-bcea-5fc7ff645fa2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fa9e2365-b18e-424b-89b1-85bb0a21b0cb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5046506b-bfde-4439-bfe6-543c45ecdc7f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Mounting Hole with connection"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ffcb536b-d9cf-4fdc-b545-21390da8aeb9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_circle
+		(center 0 0)
+		(end 2.35 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "7201bc53-38f1-4ca4-8aee-6cbe5e6ee3f9")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 2.6 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "31e6ad4f-dcdb-483c-87aa-747bea9abf75")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 4.7 4.7)
+		(drill 2.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a92b4ed5-11e3-4e5e-977a-947907a54218")
+	)
+)
