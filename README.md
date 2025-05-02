@@ -2,7 +2,7 @@
 
 ![cover1.jpg](https://s2.loli.net/2025/05/01/phamgYfiQExT3yq.jpg)
 
-Blog about this project: 
+Blog about this project: https://www.emoe.xyz/diy_ccd_camera/ (Chinese)
 
 ## Hardware
 
