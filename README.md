@@ -4,6 +4,8 @@
 
 Blog about this project: https://www.emoe.xyz/diy_ccd_camera/ (Chinese)
 
+or https://www.bilibili.com/read/cv41529294/ (Chinese)
+
 ## Hardware
 
 1. FPGA Core board --- [Open source ZYNQ7000 Board from oshwhub.com](https://oshwhub.com/z_star/zynq7020-core-board-and-various-rf-modules)
