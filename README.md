@@ -22,6 +22,7 @@ or https://www.bilibili.com/read/cv41529294/ (Chinese)
 
    Note: Due to Github file size limitation and I dont want to upload the whole workspace folder (because that is a mess), So the workspace is split into two smaller compressed files.
 
+   Update: Just realized I miss a verilog source file "line_skipper.v" which lead to a compile error when generating bitstream. Now the file is in the repo, this is a easy fix. Have fun :)
 
 Some sample photo
 
